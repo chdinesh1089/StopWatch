@@ -9,8 +9,9 @@ export const styles = StyleSheet.create({
     },
     title: {
         color: '#696969',
-        fontSize: 80,
+        fontSize: 54,
         marginTop: 10,
+        alignSelf: 'center',
     },
     time_display: {
         color: '#8b8589',
