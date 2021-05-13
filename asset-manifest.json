@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/StopWatch/static/js/app.d2c937d5.chunk.js",
+    "app.js.map": "/StopWatch/static/js/app.d2c937d5.chunk.js.map",
+    "runtime~app.js": "/StopWatch/static/js/runtime~app.b0596eb3.js",
+    "runtime~app.js.map": "/StopWatch/static/js/runtime~app.b0596eb3.js.map",
+    "static/js/2.9a6228bf.chunk.js": "/StopWatch/static/js/2.9a6228bf.chunk.js",
+    "static/js/2.9a6228bf.chunk.js.map": "/StopWatch/static/js/2.9a6228bf.chunk.js.map",
+    "favicon-16.png": "/StopWatch/favicon-16.png",
+    "favicon-32.png": "/StopWatch/favicon-32.png",
+    "favicon.ico": "/StopWatch/favicon.ico",
+    "index.html": "/StopWatch/index.html",
+    "manifest.json": "/StopWatch/manifest.json",
+    "serve.json": "/StopWatch/serve.json",
+    "static/js/2.9a6228bf.chunk.js.LICENSE.txt": "/StopWatch/static/js/2.9a6228bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b0596eb3.js",
+    "static/js/2.9a6228bf.chunk.js",
+    "static/js/app.d2c937d5.chunk.js"
+  ]
+}
