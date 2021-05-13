@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/StopWatch/static/js/app.d2c937d5.chunk.js",
-    "app.js.map": "/StopWatch/static/js/app.d2c937d5.chunk.js.map",
+    "app.js": "/StopWatch/static/js/app.630fb02a.chunk.js",
+    "app.js.map": "/StopWatch/static/js/app.630fb02a.chunk.js.map",
     "runtime~app.js": "/StopWatch/static/js/runtime~app.b0596eb3.js",
     "runtime~app.js.map": "/StopWatch/static/js/runtime~app.b0596eb3.js.map",
     "static/js/2.9a6228bf.chunk.js": "/StopWatch/static/js/2.9a6228bf.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.b0596eb3.js",
     "static/js/2.9a6228bf.chunk.js",
-    "static/js/app.d2c937d5.chunk.js"
+    "static/js/app.630fb02a.chunk.js"
   ]
 }
